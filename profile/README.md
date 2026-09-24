@@ -1,7 +1,5 @@
-# NUSX Labs 🚀
+# NUSX Labs
 
-Welcome to the official GitHub home of **NUSX Labs** — the engineering arm powering entrepreneurship, innovation, and venture-building at the National University of Singapore.
+Engineering at [NUSX](https://nusx.edu.sg/) (formerly NUS Enterprise) - the National University of Singapore's venture-building and innovation arm.
 
-We build the platforms, tools, and infrastructure that connect students, startups, researchers, and industry partners across the NUS innovation ecosystem.
-
-Stay tuned for updates!
+We build the tools and infrastructure behind NUSX's programmes, partnerships, and startup portfolio: systems that connect students, researchers, founders, and industry partners across the NUS innovation ecosystem.
